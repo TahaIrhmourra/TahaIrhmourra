@@ -1,8 +1,8 @@
 # Hi 👋, I'm Taha Irhmourra
 
-### Currently a student at YouCode learning web development
+### I'm a student at YouCode Safi 
 
-- 🌱 I'm currently learning **Web development both Front-end and Back-end**
+- 🌱 currently learning **Web development both Front-end and Back-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
