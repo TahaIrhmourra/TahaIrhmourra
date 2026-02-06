@@ -1,8 +1,5 @@
 # Hi 👋, I'm Taha Irhmourra
 
-### I'm a student at YouCode Safi 
-### Currently learning **Web development both Front-end and Back-end**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/TahaIrhmourra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TahaIrhmourra" height="30" width="40" /></a>
